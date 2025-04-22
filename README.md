@@ -25,7 +25,7 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |Ayudantía 2: Análisis Exploratorio de Datos  | Trabajo con `DataFrames`, grafico de datos numéricos, cálculo de estadísticos descriptivos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia2_AnalisisExploratorio.ipynb)|
 |Ayudantía 3: Introducción a los test de hipótesis| Intervalos de confianza, distribución normal, test z (introducción) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia3_IntroduccionALosTestDeHipotesis.ipynb) |
 |Ayudantía 4: Test z y Test t| Distribución t, test t y z, tests no paramétricos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia4_ztest_y_ttest.ipynb)|
-|Ayudantía 5: ANOVA, test de proporcionalidad, tests auxiliares y test no paramétricos| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia5_TestDeHipotesisANOVA.ipynb)|
+|Ayudantía 5: ANOVA| test de proporcionalidad, tests auxiliares y test no paramétricos| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia5_TestDeHipotesisANOVA.ipynb)|
 
 ----
 Material Complementario y Tutoriales:
