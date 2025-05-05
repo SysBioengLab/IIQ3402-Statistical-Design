@@ -13,7 +13,8 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |Clase 10| Análisis Post-hoc, Análisis de datos categóricos| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase10_InferenciaEstadisticaVI.ipynb)|
 |Clase 11| Medidas de asociación lineal, correlación| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase11_AnalisisDeRegresionI.ipynb)|
 |Clase 12| Regresión lineal simple, verificación de supuestos, identificación de outliers|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase12_AnalisisDeRegresionII.ipynb)|
-
+|Clase 13| Regresión lineal, Pruebas de hipótesis, ANOVA |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase13_AnalisisDeRegresionIII.ipynb)|
+|Clase 14 | Regresión lineal multivariada, pruebas de hipótesis relacionadas, selección de variables| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase14_AnalisisDeRegresionIV.ipynb)|
 
 ## Ayudantías
 
