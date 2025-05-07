@@ -27,6 +27,9 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |Ayudantía 3: Introducción a los test de hipótesis| Intervalos de confianza, distribución normal, test z (introducción) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia3_IntroduccionALosTestDeHipotesis.ipynb) |
 |Ayudantía 4: Test z y Test t| Distribución t, test t y z, tests no paramétricos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia4_ztest_y_ttest.ipynb)|
 |Ayudantía 5: ANOVA| test de proporcionalidad, tests auxiliares y test no paramétricos| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia5_TestDeHipotesisANOVA.ipynb)|
+|Ayudantía 6: Regresión Lineal Simple| Análisis y generación de regresión lineal simple |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia6_IntroModelosDeRegresion.ipynb)|
+|Ayudantía 7: Análisis de Modelos de Regresión | Análisis estadístico sobre modelos de regresión simple y multivariada| |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia7_AnalisisDeModelosLineales.ipynb)|
+
 
 ----
 Material Complementario y Tutoriales:
