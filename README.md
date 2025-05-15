@@ -29,6 +29,7 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |Ayudantía 5: ANOVA| test de proporcionalidad, tests auxiliares y test no paramétricos| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia5_TestDeHipotesisANOVA.ipynb)|
 |Ayudantía 6: Regresión Lineal Simple| Análisis y generación de regresión lineal simple |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia6_IntroModelosDeRegresion.ipynb)|
 |Ayudantía 7: Análisis de Modelos de Regresión | Análisis estadístico sobre modelos de regresión simple y multivariada|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia7_AnalisisDeModelosLineales.ipynb)|
+|Ayudantía 8: Diseño Experimental Factorial | Diseño de Matriz de diseño, análisis de varianza, visualizaciónes y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia8_DisenoExperimentalFactoria.ipynb)|
 
 
 ----
