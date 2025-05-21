@@ -15,6 +15,8 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |Clase 12| Regresión lineal simple, verificación de supuestos, identificación de outliers|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase12_AnalisisDeRegresionII.ipynb)|
 |Clase 13| Regresión lineal, Pruebas de hipótesis, ANOVA |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase13_AnalisisDeRegresionIII.ipynb)|
 |Clase 14 | Regresión lineal multivariada, pruebas de hipótesis relacionadas, selección de variables| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase14_AnalisisDeRegresionIV.ipynb)|
+|Clase 17| Análisis de diseños experimentales completamente aleatorios | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase17_DisenoExperimentalIII.ipynb)|
+|Clase 18| Análisis de diseños experimentales aleatorios y por bloques|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase18_DisenoExperimentalIV.ipynb)|
 
 ## Ayudantías
 
