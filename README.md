@@ -17,6 +17,8 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |Clase 14 | Regresión lineal multivariada, pruebas de hipótesis relacionadas, selección de variables| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase14_AnalisisDeRegresionIV.ipynb)|
 |Clase 17| Análisis de diseños experimentales completamente aleatorios | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase17_DisenoExperimentalIII.ipynb)|
 |Clase 18| Análisis de diseños experimentales aleatorios y por bloques|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase18_DisenoExperimentalIV.ipynb)|
+|Clase 19| Diseño Experimental $2^k$ con repeticiones y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase19_DisenoExperimentalV.ipynb)|
+|Clase 20| Diseño Experimental $2^k$ sin repeticiones y su análisis |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase20_DisenoExperimentalVI.ipynb)|
 
 ## Ayudantías
 
