@@ -20,7 +20,7 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |Clase 19| Diseño Experimental $2^k$ con repeticiones y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase19_DisenoExperimentalV.ipynb)|
 |Clase 20| Diseño Experimental $2^k$ sin repeticiones y su análisis |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase20_DisenoExperimentalVI.ipynb)|
 |Clase 21| Diseño Experimental factorial por bloques y fraccionado |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase21_DisenoExperimentalVII.ipynb)|
-|Clase 22| Diseño Experimental de Superficie de Respuesta| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase212_DisenoExperimentalVIII.ipynb)|
+|Clase 22| Diseño Experimental de Superficie de Respuesta| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase22_DisenoExperimentalVIII.ipynb)|
 ## Ayudantías
 
 Los códigos que acompañan a las ayudantías pueden ser encontrados en la siguiente tabla.
