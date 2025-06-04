@@ -19,7 +19,8 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |Clase 18| Análisis de diseños experimentales aleatorios y por bloques|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase18_DisenoExperimentalIV.ipynb)|
 |Clase 19| Diseño Experimental $2^k$ con repeticiones y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase19_DisenoExperimentalV.ipynb)|
 |Clase 20| Diseño Experimental $2^k$ sin repeticiones y su análisis |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase20_DisenoExperimentalVI.ipynb)|
-
+|Clase 21| Diseño Experimental factorial por bloques y fraccionado |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase21_DisenoExperimentalVII.ipynb)|
+|Clase 22| Diseño Experimental de Superficie de Respuesta| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase212_DisenoExperimentalVIII.ipynb)|
 ## Ayudantías
 
 Los códigos que acompañan a las ayudantías pueden ser encontrados en la siguiente tabla.
@@ -33,9 +34,8 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |Ayudantía 5: ANOVA| test de proporcionalidad, tests auxiliares y test no paramétricos| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia5_TestDeHipotesisANOVA.ipynb)|
 |Ayudantía 6: Regresión Lineal Simple| Análisis y generación de regresión lineal simple |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia6_IntroModelosDeRegresion.ipynb)|
 |Ayudantía 7: Análisis de Modelos de Regresión | Análisis estadístico sobre modelos de regresión simple y multivariada|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia7_AnalisisDeModelosLineales.ipynb)|
-|Ayudantía 8: Diseño Experimental Factorial | Diseño de Matriz de diseño, análisis de varianza, visualizaciónes y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia8_DisenoExperimentalFactoria.ipynb)|
-
-
+|Ayudantía 8: Diseño Experimental Factorial | Diseño de Matriz de diseño, análisis de varianza, visualizaciónes y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia9_DisenoFactorial2k.ipynb)|
+|Ayudantía 9: Diseño Experimental $2^k$| Diseño experimental $2^k$, analísis de efecto, ANOVA para diseños $2^k$ |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia9_DisenoFactorial2k.ipynb)|
 ----
 Material Complementario y Tutoriales:
 - [Data Analysis With Python - FireCode](https://www.youtube.com/watch?v=r-uOLxNrNk8)
