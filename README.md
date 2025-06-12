@@ -21,6 +21,10 @@ Los códigos que acompañan a las clases pueden ser encontrados en la siguiente 
 |Clase 20| Diseño Experimental $2^k$ sin repeticiones y su análisis |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase20_DisenoExperimentalVI.ipynb)|
 |Clase 21| Diseño Experimental factorial por bloques y fraccionado |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase21_DisenoExperimentalVII.ipynb)|
 |Clase 22| Diseño Experimental de Superficie de Respuesta| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase22_DisenoExperimentalVIII.ipynb)|
+|Clase 23| Análisis de Componentes Principales | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase23_AnalisisMultivariadoI.ipynb)|
+|Clase 24| Agrupamientos por K-means y Agrupamientos Jerárquicos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Clases/Clase24_AnalisisMultivariadoII.ipynb)|
+
+
 ## Ayudantías
 
 Los códigos que acompañan a las ayudantías pueden ser encontrados en la siguiente tabla.
@@ -37,6 +41,7 @@ Los códigos que acompañan a las ayudantías pueden ser encontrados en la sigui
 |Ayudantía 8: Diseño Experimental Factorial | Diseño de Matriz de diseño, análisis de varianza, visualizaciónes y estimación de efectos |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia9_DisenoFactorial2k.ipynb)|
 |Ayudantía 9: Diseño Experimental $2^k$| Diseño experimental $2^k$, analísis de efecto, ANOVA para diseños $2^k$ |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia9_DisenoFactorial2k.ipynb)|
 |Ayudantía 10: Diseño Experimental Factorial Fraccionado y en Superficie de Respuesta| Diseño Experimental $2^{k-p}$, Bloqueo en Diseño $2^k$, Análisis de Variables Confundidas, *Lack-of-Fit* test, Um pouquinho da Otimização | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia10_DisenoFactorialFraccionadoYSuperficieDeRespuesta.ipynb)|
+|Ayudantía 11: Análisis Multivariado| PCA, t-SNE, UMAP, K-means, Agrupamiento Jerárquico | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/SysBioengLab/IIQ3402-Statistical-Design/blob/main/Ayudantias/Ayudantia11_AnalisisMultivariado.ipynb)|
 ----
 Material Complementario y Tutoriales:
 - [Data Analysis With Python - FireCode](https://www.youtube.com/watch?v=r-uOLxNrNk8)
