@@ -3,8 +3,8 @@ Coursework material for the Statistical Design, Optimization and Multivariate An
 
 
 # Folder Organization
-**DataSets**: .csv files with datasets for the course.
+**SetDeDatos**: .csv files with datasets for the course.
 
-**Class**: Class associated notebooks.
+**Clases**: Class associated notebooks.
 
-**Ayu**: Teaching assisstanship associated notebooks.
+**Ayudantias**: Teaching assisstanship associated notebooks.
