@@ -246,6 +246,10 @@ pyrightconfig.json
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-
-
 ./figures
+
+# Jupyter Book build output
+book/_build/
+
+# Claude context
+CLAUDE.md

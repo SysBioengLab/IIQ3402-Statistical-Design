@@ -15,8 +15,10 @@ html:
   use_repository_button: true
   use_edit_page_button: false
   home_page_in_navbar: true
+  extra_footer: |
+    <p>IIQ3402 — Statistical Design | Gabriel Miranda & Pedro Saa</p>
 
-# Repository information (update with your actual repo URL)
+# Repository information
 repository:
   url: https://github.com/ggmirandac/IIQ3402-Statistical-Design
   path_to_book: book
@@ -39,7 +41,16 @@ sphinx:
   extra_extensions:
     - sphinx_design
   config:
+    html_theme: sphinx_book_theme
     html_show_sourcelink: false
+    html_css_files:
+      - custom.css
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
     suppress_warnings:
       - mystnb.unknown_mime_type
+    html_theme_options:
+      show_toc_level: 2
+      navigation_with_keys: true
+      use_download_button: true
+      pygments_light_style: tango
+      pygments_dark_style: monokai

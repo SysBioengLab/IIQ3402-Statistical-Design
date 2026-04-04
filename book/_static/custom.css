@@ -1,0 +1,88 @@
+/* ============================================================
+   Computational Methods for Experimental Design — Custom Theme
+   ============================================================ */
+
+/* ── Brand colours ──────────────────────────────────────────
+   Primary  : deep teal  #0f4c75
+   Accent   : warm amber #f5a623
+   Light bg : #f8f9fa
+   ─────────────────────────────────────────────────────────── */
+
+:root {
+  --pst-color-primary:        #0f4c75;
+  --pst-color-secondary:      #1b6ca8;
+  --pst-color-accent:         #f5a623;
+  --pst-color-link:           #1b6ca8;
+  --pst-color-link-hover:     #0f4c75;
+}
+
+/* ── Navbar ─────────────────────────────────────────────── */
+.navbar {
+  background-color: #0f4c75 !important;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+/* ── Sidebar ────────────────────────────────────────────── */
+.bd-sidebar-primary {
+  background-color: #f0f4f8;
+  border-right: 1px solid #d0dce8;
+}
+
+.sidebar-primary-item a:hover {
+  color: #0f4c75;
+}
+
+/* ── Headings ───────────────────────────────────────────── */
+h1 {
+  color: #0f4c75;
+  border-bottom: 2px solid #f5a623;
+  padding-bottom: 0.3em;
+}
+
+h2 { color: #1b6ca8; }
+h3 { color: #2a7fc1; }
+
+/* ── Code blocks ────────────────────────────────────────── */
+div.cell_input pre,
+div.highlight pre {
+  border-left: 4px solid #1b6ca8;
+  border-radius: 4px;
+}
+
+/* ── Admonitions / callout boxes ────────────────────────── */
+div.admonition {
+  border-radius: 6px;
+}
+
+div.note {
+  border-left: 4px solid #1b6ca8;
+}
+
+div.warning {
+  border-left: 4px solid #f5a623;
+}
+
+div.tip {
+  border-left: 4px solid #2ecc71;
+}
+
+/* ── Tables ─────────────────────────────────────────────── */
+table.docutils thead {
+  background-color: #0f4c75;
+  color: #ffffff;
+}
+
+table.docutils tbody tr:nth-child(even) {
+  background-color: #f0f4f8;
+}
+
+/* ── Footer ─────────────────────────────────────────────── */
+footer {
+  border-top: 2px solid #0f4c75;
+  padding-top: 1em;
+  font-size: 0.85em;
+  color: #666;
+}
