@@ -1,0 +1,45 @@
+#######################################################################################
+# Book settings
+title: "Computational Methods for Experimental Design"
+author: "Gabriel Miranda & Pedro Saa"
+logo: ""
+copyright: "2025"
+
+# Force re-execution of notebooks on each build
+execute:
+  execute_notebooks: "off"
+
+# HTML-specific settings
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: false
+  home_page_in_navbar: true
+
+# Repository information (update with your actual repo URL)
+repository:
+  url: https://github.com/ggmirandac/IIQ3402-Statistical-Design
+  path_to_book: book
+  branch: main
+
+# Launch button settings
+launch_buttons:
+  notebook_interface: "classic"
+  binderhub_url: ""
+
+# LaTeX / PDF settings
+latex:
+  latex_engine: pdflatex
+  use_jupyterbook_latex: true
+  latex_documents:
+    targetname: book.tex
+
+# Sphinx settings
+sphinx:
+  extra_extensions:
+    - sphinx_design
+  config:
+    html_show_sourcelink: false
+    mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    suppress_warnings:
+      - mystnb.unknown_mime_type
