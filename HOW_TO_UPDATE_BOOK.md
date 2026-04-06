@@ -17,12 +17,12 @@ Each chapter is a notebook inside `book/chapters/`. Edit the notebook directly:
 
 ```
 book/chapters/
-├── 01_fundamentos_python.ipynb        ← Python basics
-├── 02_estadistica_descriptiva.ipynb   ← EDA & descriptive stats
-├── 03_distribuciones_discretas.ipynb  ← Discrete distributions
-├── 04_distribuciones_continuas.ipynb  ← Continuous distributions
-├── 05_inferencia_tlc_ic.ipynb         ← CLT & confidence intervals
-└── 06_tests_hipotesis.ipynb           ← Hypothesis tests
+├── 01_fundamentos_python.ipynb                    ← Python basics
+├── 02_estadistica_descriptiva.ipynb               ← EDA & descriptive stats
+├── 03_distribuciones_discretas.ipynb              ← Discrete distributions
+├── 04_distribuciones_continuas.ipynb              ← Continuous distributions
+├── 05_inferencia_tlc_ic.ipynb                     ← CLT & confidence intervals
+└── 06_tests_hipotesis_una_muestra.ipynb           ← Hypothesis tests
 ```
 
 After editing, rebuild:
