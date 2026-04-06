@@ -2,14 +2,14 @@ format: jb-book
 root: intro
 chapters:
 - file: chapters/01_fundamentos_python
-  title: "1. Python Fundamentals for Data Analysis"
+  title: "1. Fundamentos del Análisis de Datos con Python"
 - file: chapters/02_estadistica_descriptiva
-  title: "2. Descriptive Statistics and EDA"
+  title: "2. Estadística Descriptiva y EDA"
 - file: chapters/03_distribuciones_discretas
-  title: "3. Discrete Distributions"
+  title: "3. Distribuciones Discretas"
 - file: chapters/04_distribuciones_continuas
-  title: "4. Continuous Distributions"
+  title: "4. Distribuciones Continuas"
 - file: chapters/05_inferencia_tlc_ic
-  title: "5. CLT and Confidence Intervals"
+  title: "5. Teorema del Límite Central e Intervalos de Confianza"
 - file: chapters/06_tests_hipotesis
-  title: "6. Hypothesis Tests for a Single Sample"
+  title: "6. Pruebas de Hipótesis para una Muestra"

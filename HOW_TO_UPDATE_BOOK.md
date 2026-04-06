@@ -66,7 +66,7 @@ All visual settings are in two files:
 ```yaml
 sphinx:
   config:
-    html_theme: pydata_sphinx_theme        # swap theme here
+    html_theme: sphinx_book_theme          # swap theme here
     html_theme_options:
       show_toc_level: 2                    # depth of right-side TOC
       pygments_light_style: tango          # code highlight style (light)
@@ -76,8 +76,8 @@ sphinx:
 Other available themes (all pip-installable):
 | Theme | Install | `html_theme` value |
 |-------|---------|-------------------|
-| PyData (current) | pre-installed | `pydata_sphinx_theme` |
-| Sphinx Book | pre-installed | `sphinx_book_theme` |
+| Sphinx Book (current) | pre-installed | `sphinx_book_theme` |
+| PyData | pre-installed | `pydata_sphinx_theme` |
 | Furo | `pip install furo` | `furo` |
 | Read the Docs | `pip install sphinx-rtd-theme` | `sphinx_rtd_theme` |
 
@@ -85,10 +85,20 @@ Other available themes (all pip-installable):
 Edit the CSS variables at the top to change brand colours:
 ```css
 :root {
-  --pst-color-primary:   #0f4c75;   /* deep teal */
-  --pst-color-accent:    #f5a623;   /* amber */
+  --pst-color-primary:    #0f4c75;   /* main color (navbar, h1, sidebar) */
+  --pst-color-secondary:  #1b6ca8;   /* secondary (h2, links) */
+  --pst-color-accent:     #f5a623;   /* accent (h1 underline, warnings) */
+  --pst-color-link:       #1b6ca8;   /* link color */
+  --pst-color-link-hover: #0f4c75;   /* link hover */
 }
 ```
+
+After editing, rebuild and hard-refresh your browser (`Cmd+Shift+R`):
+```bash
+conda run -n SaaLab jupyter-book build book/
+```
+
+> **Tip:** Use [coolors.co](https://coolors.co) to generate matching colour palettes from a single hex code.
 
 ---
 
