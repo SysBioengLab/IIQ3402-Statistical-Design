@@ -13,3 +13,5 @@ chapters:
   title: "5. Teorema del Límite Central e Intervalos de Confianza"
 - file: chapters/06_tests_hipotesis_una_muestra
   title: "6. Pruebas de Hipótesis para una Muestra"
+- file: chapters/07_tests_hipotesis_multiples_muestras
+  title: "7. Pruebas de Hipótesis para Multiples Muestras"
