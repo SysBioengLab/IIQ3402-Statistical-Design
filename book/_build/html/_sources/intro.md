@@ -16,7 +16,7 @@ The book is organized into the following chapters:
 4. **Continuous Distributions** — Uniform, Normal, Exponential, t-Student, Chi-squared, F, and Weibull distributions.
 5. **Central Limit Theorem and Confidence Intervals** — Sampling distributions, the CLT, and confidence intervals for means, variances, and proportions.
 6. **Hypothesis Tests for a Single Sample** — Z-test, t-test, variance test, and proportion test, including Type II error and OC curves.
-
+7. **Hypothesis Tests for a Multiple Samples**
 ## How to use this book
 
 Each chapter contains both explanatory text and executable code cells. You can run the notebooks interactively using the launch buttons at the top of each page.
