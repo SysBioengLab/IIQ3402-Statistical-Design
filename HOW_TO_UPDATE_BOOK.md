@@ -2,12 +2,13 @@
 
 ## Quick reference
 
+
 | Task | Command |
 |------|---------|
-| Build HTML | `conda run -n SaaLab jupyter-book build book/` |
-| Build PDF | `conda run -n SaaLab jupyter-book build book/ --builder pdflatex` |
+| Build HTML | `conda run -n CondaEnv jupyter-book build book/` |
+| Build PDF | `conda run -n CondaEnv jupyter-book build book/ --builder pdflatex` |
 | Preview locally | open `book/_build/html/index.html` in browser |
-| Clean build cache | `conda run -n SaaLab jupyter-book clean book/` |
+| Clean build cache | `conda run -n CondaEnv jupyter-book clean book/` |
 
 ---
 
@@ -27,7 +28,7 @@ book/chapters/
 
 After editing, rebuild:
 ```bash
-conda run -n SaaLab jupyter-book build book/
+conda run -n CondaEnv jupyter-book build book/
 ```
 
 > **Do not edit** `Ayudantias/Torpedo_iiq3402.ipynb` for book content —  
@@ -53,7 +54,7 @@ chapters:
 
 **Step 3 — Rebuild:**
 ```bash
-conda run -n SaaLab jupyter-book build book/
+conda run -n CondaEnv jupyter-book build book/
 ```
 
 ---
@@ -95,7 +96,7 @@ Edit the CSS variables at the top to change brand colours:
 
 After editing, rebuild and hard-refresh your browser (`Cmd+Shift+R`):
 ```bash
-conda run -n SaaLab jupyter-book build book/
+conda run -n CondaEnv jupyter-book build book/
 ```
 
 > **Tip:** Use [coolors.co](https://coolors.co) to generate matching colour palettes from a single hex code.
@@ -126,7 +127,7 @@ https://ggmirandac.github.io/IIQ3402-Statistical-Design/
 Requires pdflatex (BasicTeX, installed via Homebrew):
 ```bash
 eval "$(/usr/libexec/path_helper)"   # only needed if pdflatex not in PATH
-conda run -n SaaLab jupyter-book build book/ --builder pdflatex
+conda run -n CondaEnv jupyter-book build book/ --builder pdflatex
 ```
 Output: `book/_build/latex/book.pdf`
 
@@ -135,17 +136,17 @@ Output: `book/_build/latex/book.pdf`
 ## 6. Troubleshooting
 
 **Build fails with "kernel not found"**  
-→ The notebooks use `python3`. Make sure the SaaLab env is active:
+→ The notebooks use `python3`. Make sure the CondaEnv env is active:
 ```bash
-conda activate SaaLab
+conda activate CondaEnv
 jupyter-book build book/
 ```
 
 **Chapters show wrong numbering or missing TOC**  
 → Clean the cache and rebuild:
 ```bash
-conda run -n SaaLab jupyter-book clean book/
-conda run -n SaaLab jupyter-book build book/
+conda run -n CondaEnv jupyter-book clean book/
+conda run -n CondaEnv jupyter-book build book/
 ```
 
 **GitHub Actions fails with dependency error**  

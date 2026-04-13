@@ -253,3 +253,15 @@ book/_build/
 
 # Claude context
 CLAUDE.md
+
+# Source material (local only, not for version control)
+LibroClase/
+
+# Obsidian vault (local only, not for version control)
+vault/
+.obsidian/
+
+# Generated book assets
+book/figures/
+book/__pycache__/
+data_generation.ipynb
