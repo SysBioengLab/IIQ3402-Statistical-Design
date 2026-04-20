@@ -15,3 +15,5 @@ chapters:
   title: "6. Pruebas de Hipótesis para una Muestra"
 - file: chapters/07_tests_hipotesis_multiples_muestras
   title: "7. Pruebas de Hipótesis para Multiples Muestras"
+- file: chapters/08_modelos_de_regresion
+  title: "8. Modelos de Regresión Lineal"
