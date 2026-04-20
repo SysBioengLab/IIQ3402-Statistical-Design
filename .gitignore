@@ -265,3 +265,6 @@ vault/
 book/figures/
 book/__pycache__/
 data_generation.ipynb
+
+
+.claude/
