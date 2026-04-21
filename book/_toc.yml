@@ -17,3 +17,5 @@ chapters:
   title: "7. Pruebas de Hipótesis para Multiples Muestras"
 - file: chapters/08_modelos_de_regresion
   title: "8. Modelos de Regresión Lineal"
+- file: chapters/09_regresion_lineal_multiple
+  title: "9. Regresion Lineal Multiple"
