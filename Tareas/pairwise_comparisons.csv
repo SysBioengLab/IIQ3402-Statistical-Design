@@ -1,0 +1,11 @@
+,Contrast,A,B,Paired,Parametric,T,dof,alternative,p_unc,p_corr,p_adjust,BF10,hedges
+0,tratamiento,placebo,t1,False,True,2.9531,10.0,two-sided,0.0145,0.1446,bonf,4.058,1.5738
+1,tratamiento,placebo,t2,False,True,3.9967,10.0,two-sided,0.0025,0.0253,bonf,13.975,2.13
+2,tratamiento,placebo,t3,False,True,2.5908,10.0,two-sided,0.0269,0.2691,bonf,2.69,1.3807
+3,tratamiento,placebo,t4,False,True,1.2464,10.0,two-sided,0.241,1.0,bonf,0.752,0.6642
+4,tratamiento,t1,t2,False,True,1.0,10.0,two-sided,0.3409,1.0,bonf,0.639,0.5329
+5,tratamiento,t1,t3,False,True,-0.2104,10.0,two-sided,0.8376,1.0,bonf,0.474,-0.1121
+6,tratamiento,t1,t4,False,True,-1.19,10.0,two-sided,0.2615,1.0,bonf,0.722,-0.6342
+7,tratamiento,t2,t3,False,True,-1.1352,10.0,two-sided,0.2828,1.0,bonf,0.696,-0.605
+8,tratamiento,t2,t4,False,True,-1.963,10.0,two-sided,0.078,0.7804,bonf,1.391,-1.0462
+9,tratamiento,t3,t4,False,True,-0.9733,10.0,two-sided,0.3533,1.0,bonf,0.629,-0.5187
